@@ -3,5 +3,6 @@ Patika.dev'in programı olan Akbank Web3 Practicum için javascript case çözü
 
 
 patika profil bilgisi:
-```https://app.patika.dev/erdiagri
+```
+https://app.patika.dev/erdiagri
 ```
