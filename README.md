@@ -6,3 +6,7 @@ patika profil bilgisi:
 ```
 https://app.patika.dev/erdiagri
 ```
+linkedin:
+```
+https://www.linkedin.com/in/erdi-a-a66ab613a/
+```
